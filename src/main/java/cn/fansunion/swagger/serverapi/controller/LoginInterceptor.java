@@ -9,11 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
-/**
- * 小雷FansUnion-一个有创业和投资经验的资深程序员-全球最大中文IT社区CSDN知名博主-排名第119
- * 博客：http://blog.csdn.net/fansunion
- *
- */
+
 //测试用的
 public class LoginInterceptor extends HandlerInterceptorAdapter {
 

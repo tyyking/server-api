@@ -4,11 +4,7 @@ import java.io.Serializable;
 
 import com.wordnik.swagger.annotations.ApiModelProperty;
 
-/**
- * 小雷FansUnion-一个有创业和投资经验的资深程序员-全球最大中文IT社区CSDN知名博主-排名第119
- * 博客：http://blog.csdn.net/fansunion
- *
- */
+
 public class Result<T> implements Serializable {
 
 	private static final long serialVersionUID = 3997124446365032582L;
